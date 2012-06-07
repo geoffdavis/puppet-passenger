@@ -4,5 +4,9 @@ OpenCSW Apache and Ruby stack.
 It is designed to be modular and easily support new operating systems
 as needed.
 
+Requirements:
+The OpenCSW apache2 package. This can be installed however you like.
+https://github.com/geoffdavis/puppet-cswapache might be useful
+
 Usage:
 include passenger
