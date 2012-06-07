@@ -1,0 +1,8 @@
+This module manages the phusion passenger module on Solaris using an
+OpenCSW Apache and Ruby stack.
+
+It is designed to be modular and easily support new operating systems
+as needed.
+
+Usage:
+include passenger
